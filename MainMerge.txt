@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 This is info from main.
-=======
 This is conflict info.
->>>>>>> TestConflict
